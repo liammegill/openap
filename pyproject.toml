@@ -1,6 +1,6 @@
 [project]
 name = "openap"
-version = "2.2"
+version = "2.4"
 description = "Open Aircraft Performance Model (OpenAP) in Python"
 authors = [{ name = "Junzi Sun", email = "git@junzis.com" }]
 license = { text = "GNU LGPL v3" }
@@ -21,6 +21,7 @@ dependencies = [
     "pandas>=1.2",
     "pyyaml>=5.1",
     "matplotlib>=3.1",
+    "pytest>=8.2.0",
     "pyBADA>=0.1.5",
 ]
 
