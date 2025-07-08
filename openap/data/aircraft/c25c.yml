@@ -1,0 +1,7 @@
+aircraft: Citation CJ4
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: TFE731-2-2B  # original: FJ44-4A

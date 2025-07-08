@@ -1,0 +1,7 @@
+aircraft: Citation X
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: AE3007C

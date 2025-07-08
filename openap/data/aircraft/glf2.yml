@@ -1,0 +1,7 @@
+aircraft: G-1159 Gulfstream II
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: SPEY Mk511  # original: SPEY Mk511-8

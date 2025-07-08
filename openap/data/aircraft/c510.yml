@@ -1,0 +1,7 @@
+aircraft: Citation Mustang
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: JT15D-4  # original: PW615F

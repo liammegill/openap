@@ -1,0 +1,7 @@
+aircraft: Challenger 604
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: CF34-3B

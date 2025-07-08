@@ -1,0 +1,7 @@
+aircraft: SF50 Vision
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 1
+  default: JT15D-4  # original: FJ33-5A

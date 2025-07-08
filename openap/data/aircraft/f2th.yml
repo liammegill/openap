@@ -1,0 +1,7 @@
+aircraft: Falcon 2000EX
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: PW308C

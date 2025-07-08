@@ -1,0 +1,7 @@
+aircraft: Hawker 800XP
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: TFE731-3  # original: TFE731-5BR-1H,

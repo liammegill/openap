@@ -1,0 +1,7 @@
+aircraft: Super King Air B200
+
+engine:
+  type: turboprop
+  mount: wing
+  number: 2
+  default: PT6A-66  # original: PT6A-42

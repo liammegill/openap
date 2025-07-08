@@ -1,0 +1,7 @@
+aircraft: PA-46-500TP
+
+engine:
+  type: turboprop
+  mount: front
+  number: 1
+  default: PT6A-66  # original: PT6A-42A

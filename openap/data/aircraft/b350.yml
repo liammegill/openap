@@ -1,0 +1,7 @@
+aircraft: Super King Air 350
+
+engine:
+  type: turboprop
+  mount: wing
+  number: 2
+  default: PT6A-60A

@@ -1,0 +1,7 @@
+aircraft: EMB-500 Phenom 100
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: JT15D-4  # original: PW617F

@@ -1,0 +1,7 @@
+aircraft: Falcon 50EX
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 3
+  default: TFE731-3  # original: TFE731-40

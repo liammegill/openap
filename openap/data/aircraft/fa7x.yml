@@ -1,0 +1,7 @@
+aircraft: Falcon 7X
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 3
+  default: PW307A

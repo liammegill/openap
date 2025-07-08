@@ -1,0 +1,7 @@
+aircraft: Learjet 60XR
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: PW306B  # original: PW305A

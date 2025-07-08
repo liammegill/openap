@@ -1,0 +1,7 @@
+aircraft: Learjet 35
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: TFE731-2-2B

@@ -1,0 +1,7 @@
+aircraft: Falcon 20
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: PW306B  # original: CF700-2D2

@@ -1,0 +1,7 @@
+aircraft: HA-420 HondaJet
+
+engine:
+  type: turbofan
+  mount: wing
+  number: 2
+  default: JT15D-4  # original: HF120-H1A

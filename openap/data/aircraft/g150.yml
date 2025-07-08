@@ -1,0 +1,7 @@
+aircraft: Gulfstream G150
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: TFE731-3  # original: TFE731-40AR

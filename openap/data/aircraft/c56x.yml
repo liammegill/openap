@@ -1,0 +1,7 @@
+aircraft: Citation XLS+
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: TFE731-3  # original: PW545C

@@ -1,0 +1,7 @@
+aircraft: HS.125-3B
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: TFE731-3  # original: Viper-522

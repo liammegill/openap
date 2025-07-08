@@ -1,0 +1,7 @@
+aircraft: EMB-505 Phenom 300
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: TFE731-2-2B  # original: PW535E

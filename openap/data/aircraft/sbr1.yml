@@ -1,0 +1,7 @@
+aircraft: CT-39G Sabreliner
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: JT15D-5C  # original: JT12A-8

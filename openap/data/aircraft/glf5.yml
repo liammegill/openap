@@ -1,0 +1,7 @@
+aircraft: Gulfstream G550
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: BR700-710C4-11,

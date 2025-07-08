@@ -1,0 +1,7 @@
+aircraft: Citation II/SP
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: JT15D-4

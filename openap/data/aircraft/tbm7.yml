@@ -1,0 +1,7 @@
+aircraft: TBM-700
+
+engine:
+  type: turboprop
+  mount: front
+  number: 1
+  default: TPE331-6-252B  # original: PT6A-64

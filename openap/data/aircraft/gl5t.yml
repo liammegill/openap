@@ -1,0 +1,7 @@
+aircraft: Global 5000
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: BR700-710A2-20

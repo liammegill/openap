@@ -1,0 +1,7 @@
+aircraft: Falcon 900EX
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 3
+  default: PW306B  # original: TFE731-60

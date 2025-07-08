@@ -1,0 +1,7 @@
+aircraft: Hawker 400XP
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: JT15D-5  # original: JT15D-5R

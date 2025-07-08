@@ -1,0 +1,7 @@
+aircraft: PC12/45
+
+engine:
+  type: turboprop
+  mount: front
+  number: 1
+  default: PT6A-67  # original: PT6A-67B

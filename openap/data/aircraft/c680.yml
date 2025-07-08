@@ -1,0 +1,7 @@
+aircraft: Citation Sovereign
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: PW306B  # original: PW306C

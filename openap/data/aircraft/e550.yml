@@ -1,0 +1,7 @@
+aircraft: EMB-550 Legacy 500
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: AS907-3-1E

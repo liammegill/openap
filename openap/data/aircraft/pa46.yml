@@ -1,0 +1,7 @@
+aircraft: PA-46-350P
+
+engine:
+  type: piston
+  mount: front
+  number: 1
+  default: TIO-540-J2B2  # original: TIO-540-AE2A

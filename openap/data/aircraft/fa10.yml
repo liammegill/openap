@@ -1,0 +1,7 @@
+aircraft: Falcon 10
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: JT15D-5C  # original: TFE731-2-1C

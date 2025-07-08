@@ -1,0 +1,7 @@
+aircraft: Gulfstream G280
+
+engine:
+  type: turbofan
+  mount: rear
+  number: 2
+  default: AS907-2-1G  # also known as HTF7250G
